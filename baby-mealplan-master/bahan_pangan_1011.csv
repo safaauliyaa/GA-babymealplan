@@ -1,0 +1,1270 @@
+nama_bahan,berat (g),energi (kal),protein (g),lemak (g),karbo (g),serat (g),food_group,food_type
+"Beras giling, mentah",100,357,8.4,1.7,77.1,0.2,serelia,raw
+"Beras giling var pelita,
+mentah",100,369,9.5,1.4,77.1,0.4,serelia,raw
+"Beras giling var
+rojolele, mentah",100,357,8.4,1.7,77.1,0.2,serelia,raw
+"Beras hitam, mentah",100,351,8,1.3,76.9,20.1,serelia,raw
+"Beras jagung kuning, kering, mentah",100,358,5.5,0.1,82.7,10,serelia,raw
+"Beras jagung putih,
+kering, mentah",100,307,4.8,0.1,71.8,10,serelia,raw
+"Beras ketan hitam tumbuk, mentah",100,360,8,2.3,74.5,1,serelia,raw
+"Beras ketan putih
+tumbuk, mentah",100,361,7.4,0.8,78.4,0.4,serelia,raw
+"Beras ladang, mentah",100,376,7.5,3.8,78,5.9,serelia,raw
+"Beras menir, mentah",100,362,7.7,4.4,73,0.2,serelia,raw
+Beras parboiled,100,353,6.8,0.6,80,0.5,serelia,raw
+"Beras tumbuk, mentah",100,354,7.8,0.4,79.9,3.8,serelia,raw
+"Beras tumbuk merah,
+mentah",100,352,7.3,0.9,76.2,0.8,serelia,raw
+"Cantel, mentah",100,366,11,3.3,73,1.2,serelia,raw
+"Jagung muda, kuning,
+mentah",100,147,5.1,0.7,31.5,1.3,serelia,raw
+"Jagung kuning pipil,
+kering, mentah",100,366,9.8,7.3,69.1,2.2,serelia,raw
+"Jagung pipil var,
+harapan, kering",100,367,6.2,5.1,76.2,2.6,serelia,raw
+"Jagung pipil var,
+metro, kering",100,368,5.5,4.6,78,2.9,serelia,raw
+"Jali, mentah",100,324,11,4,61,3.1,serelia,raw
+"Jawawut, mentah",100,364,9.7,3.5,73.4,8.2,serelia,raw
+"Jampang huma,
+mentah",100,350,6.2,1.4,78.2,1.7,serelia,raw
+Nasi,100,180,3,0.3,39.8,0.2,serelia,processed
+Nasi tim,100,120,2.4,0.4,26,0.5,serelia,processed
+"Beras, tapai",100,99,1.7,0.3,22.4,0,serelia,processed
+"Beras, tepung, mentah",100,353,7,0.5,80,2.4,serelia,processed
+"Beras merah, Nasi",100,149,2.8,0.4,32.5,0.3,serelia,processed
+"Bihun, mentah",100,348,4.7,0.1,82.1,1.2,serelia,processed
+Bihun goreng instan,100,381,6.1,3.9,80.3,,serelia,processed
+"Bihun Jagung, mentah",100,354,0.5,0.3,87.4,3,serelia,processed
+"Jagung nasi, mentah",100,357,8.8,0.5,79.5,6.2,serelia,processed
+"Jagung muda, rebus",100,142,5,0.7,30.3,0.8,serelia,processed
+"Jagung kuning, tepung",100,355,9.2,3.9,73.7,7.2,serelia,processed
+"Jagung kuning pipil,
+rebus",100,154,3.8,3.5,28.4,0.7,serelia,processed
+"Jagung, tepung putih",100,355,9.2,3.9,73.7,7.2,serelia,processed
+"Ketan, ketupat",100,212,4,4.6,38.6,0.2,serelia,processed
+"Ketan hitam, matang",100,181,4,1.2,37.3,0.3,serelia,processed
+"Ketan hitam, tapai",100,166,3.8,1,34.4,0.3,serelia,processed
+"Ketan putih, matang",100,163,3,0.4,35.7,0.2,serelia,processed
+"Ketan putih, tapai",100,172,3,0.5,37.5,0.6,serelia,processed
+"Maizena, tepung",100,341,0.3,0,85,7,serelia,processed
+"Makaroni, mentah",100,353,8.7,0.4,78.7,4.9,serelia,processed
+Mi basah,100,88,0.6,3.3,14,0.1,serelia,processed
+Mi kering,100,339,10,1.7,6.3,0.4,serelia,processed
+Misoa,100,345,8.5,2.2,78,0.5,serelia,processed
+Roti putih,100,248,8,1.2,50,9.1,serelia,processed
+Tepung terigu,100,333,9,1,77.2,0.3,serelia,processed
+Amparan tatak,100,191,1.3,5.5,34,,serelia,processed
+"Apang kukus, kue",100,202,3,0.3,46.7,,serelia,processed
+"Apem, kue",100,148,2,0.5,33.9,,serelia,processed
+Biskuit,100,458,6.9,14.4,75.1,2.1,serelia,processed
+"Bakpia, kue",100,272,8.7,6.7,44.1,0.9,serelia,processed
+Bakwan,100,280,8.2,10.2,39,3.4,serelia,processed
+Bantal,100,190,3.3,0.3,43.5,3.4,serelia,processed
+Baruasa,100,417,6.5,8.2,79.3,-,serelia,processed
+Batar daan,100,107,2.2,2.2,19.6,-,serelia,processed
+Bika ambon,100,199,2.1,1.5,44.4,0.3,serelia,processed
+Bingka,100,273,5.3,10.6,39.1,-,serelia,processed
+Bobengka,100,225,5.3,2.6,45.2,-,serelia,processed
+Bolu peca,100,197,3.3,4.6,35.6,-,serelia,processed
+Brem,100,249,3.4,0.4,58,0,serelia,processed
+"Bubur tinotuan
+(Manado)",100,156,2.3,0.2,15.6,8.2,serelia,processed
+Cake tape,100,323,4.9,11.5,50.1,1.4,serelia,processed
+Cangkuning,100,204,2.8,7.5,31.4,-,serelia,processed
+Dodol bali,100,298,3.7,2.1,65.9,0.4,serelia,processed
+Dodol galamai,100,348,0.4,3.8,76.1,0.5,serelia,processed
+Dodol kedondong,100,331,1.9,7.6,63.8,1,serelia,processed
+Dodol manado,100,373,4.3,16.5,51.9,0.4,serelia,processed
+Emping beras,100,403,10.6,2.2,85.3,0.2,serelia,processed
+Gemblong,100,274,1.7,5.4,55.5,2.2,serelia,processed
+Gendar goreng,100,407,6.4,28.2,32,0.1,serelia,processed
+Intip goreng,100,474,7.6,21.6,62.3,1.2,serelia,processed
+Jagung gerontol,100,156,2.7,1.3,33.3,1,serelia,processed
+Jagung titi,100,374,9.4,2.2,79.1,0.8,serelia,processed
+Japilus,100,500,1.2,25.1,67.3,0.4,serelia,processed
+Kakicak,100,296,3.4,15.1,36.7,-,serelia,processed
+Kambose,100,164,3,2.4,32.6,4.3,serelia,processed
+Kapusa,100,158,4.4,3.2,27.8,5.3,serelia,processed
+Keddo bodong,100,290,4.6,5.7,55.2,-,serelia,processed
+"Kelepon, kue",100,215,3.7,3.7,41.8,1,serelia,processed
+Kereput,100,580,4.8,39.6,51.1,-,serelia,processed
+Ketoprak,100,153,7.9,7.7,13,2.9,serelia,processed
+Ketupat kandangan,100,109,2.2,5.2,13.4,-,serelia,processed
+Koya,100,366,4.2,4.3,77.5,0.8,serelia,processed
+Koya mirasa,100,370,8,1,82.2,0.4,serelia,processed
+Koyabu,100,241,3.4,4.3,47.2,-,serelia,processed
+Kue ali,100,440,3.8,18.5,64.5,0.3,serelia,processed
+Kue bangen,100,442,3.3,14.7,74.2,-,serelia,processed
+Kue gelang,100,448,5.8,16.1,70,-,serelia,processed
+Kue jahe,100,425,1.6,8.8,84.6,1.2,serelia,processed
+Kue kelapa,100,591,5.6,42.1,47.5,-,serelia,processed
+Kue koa,100,340,4.8,0.4,79.3,-,serelia,processed
+Kue ku temu,100,214,3.5,0.2,49.6,-,serelia,processed
+Kue lumpur,100,291,3.6,11.1,44.1,-,serelia,processed
+Kue pelita,100,141,5.3,5.5,17.6,-,serelia,processed
+Kue putu cangkir,100,304,5.3,7,54.9,0.9,serelia,processed
+Kue sus,100,221,7.5,10.2,24.8,-,serelia,processed
+Kue thipan,100,247,2.9,4.2,49.5,-,serelia,processed
+Laksa/Putu mayang,100,121,1.7,3.4,21.1,-,serelia,processed
+Lapis legit,100,389,6.6,15.7,55.5,0.5,serelia,processed
+Lupis ketan,100,164,1.8,2.1,34.5,0.7,serelia,processed
+Manan samin,100,379,3.4,18.1,50.6,-,serelia,processed
+Martabak india,100,153,4.5,4.2,24.3,-,serelia,processed
+Martabak mesir,100,278,5.1,8.6,45,-,serelia,processed
+Masekat,100,369,2.1,7,74.1,4,serelia,processed
+Mie aceh rebus,100,113,3,3.2,18.1,-,serelia,processed
+Mie ayam,100,102,6.2,3.9,10.5,-,serelia,processed
+Mie bakso,100,114,5.3,3,16.4,0.1,serelia,processed
+Mie celon,100,102,3,2.1,17.8,-,serelia,processed
+Mie pangsit basah,100,105,5.9,4.9,9.4,-,serelia,processed
+Nasi gemuk,100,192,3.8,8.8,24.4,0.7,serelia,processed
+Nasi gurih,100,190,4.7,7.5,26,0.7,serelia,processed
+Nasi minyak,100,207,3.5,5,37.1,0.8,serelia,processed
+Nasi rames,100,155,10.3,4.2,19.1,-,serelia,processed
+Nopia spesial,100,387,5.3,7.6,74.3,0.3,serelia,processed
+Onde-onde,100,336,4,9.8,57.9,-,serelia,processed
+Padamaran,100,171,3.9,8.9,18.8,-,serelia,processed
+Pastel,100,307,4.5,13.3,42.4,-,serelia,processed
+Pulut,100,216,2.6,3.1,44.4,-,serelia,processed
+Pundut nasi,100,104,1.9,4.1,15.1,0.4,serelia,processed
+Putri hijau,100,189,5.4,2.1,37.2,-,serelia,processed
+Putri selat,100,163,2.2,6.5,23.8,-,serelia,processed
+Putu sopa,100,215,3.3,4.1,41.1,-,serelia,processed
+Renggi goreng,100,471,4.7,21.8,64.1,6.4,serelia,processed
+Roti boong,100,341,5.5,16.2,43.3,-,serelia,processed
+"Roti warna sawo
+matang",100,249,7.9,1.5,49.7,-,serelia,processed
+Sarimuka,100,166,2.3,2.8,32.9,-,serelia,processed
+Spaghetti,100,139,7.4,2.1,22.6,-,serelia,processed
+Srikaya ketan,100,265,2.7,6.4,49.1,-,serelia,processed
+Sunduk lawang,100,181,1.9,1.3,32.4,-,serelia,processed
+Suwir-suwir,100,347,0.5,0.9,84.2,0.8,serelia,processed
+Tipa-tipa,100,355,6.2,1.2,79.8,1.3,serelia,processed
+Wajit camilan,100,303,6.3,2.7,63.3,6.9,serelia,processed
+Widaran,100,424,1.3,10.7,80.7,0.2,serelia,processed
+Wingko babat,100,355,3.2,15.1,51.4,2.4,serelia,processed
+Yangko,100,254,3,1.1,58.1,0.8,serelia,processed
+"Arrowroot, segar",100,102,1,0.2,24.1,1.7,umbi,raw
+"Batatas gembili, segar",100,76,1.1,0.9,16,4.2,umbi,raw
+"Batatas kelapa, ubi,
+segar",100,89,1.1,0.1,21,4,umbi,raw
+"Belitung, talas, segar",100,145,1.2,0.4,34.2,1.5,umbi,raw
+"Bengkuang, segar",100,59,1.4,0.2,12.8,1,umbi,raw
+"Bentul (Komba), talas,
+segar",100,98,1.6,0.7,20.9,0.7,umbi,raw
+"Gadeng/Gadung,
+kering",100,322,2.4,0.6,76.6,,umbi,raw
+"Gadung, ubi, segar",100,100,0.9,0.3,23.5,2.1,umbi,raw
+"Ganyong, segar",100,77,0.6,0.2,18.4,0.8,umbi,raw
+"Gembili, ubi, segar",100,131,1.1,0.2,31.3,1.1,umbi,raw
+"Hofa/Ubi hutan, segar",100,127,1.2,0.5,29.5,3.4,umbi,raw
+"Kaburan, ubi, segar",100,133,1,0.2,32.2,0.7,umbi,raw
+"Kentang, segar",100,62,2.1,0.2,13.5,0.5,umbi,raw
+"Kentang hitam, segar",100,142,0.9,0.4,33.7,5.4,umbi,raw
+"Keribang, ubi, segar",100,137,1.3,1.1,29.8,0.6,umbi,raw
+"Ketela pohon/
+singkong, segar",100,154,1,0.3,36.8,0.9,umbi,raw
+Lepok/Ubi rumput,100,181,2.8,1.2,39.8,10.7,umbi,raw
+"Sagu aren, kering",100,355,0.6,1.1,85.6,0.3,umbi,raw
+"Sagu aren, segar",100,231,0.6,0.2,56.6,3.2,umbi,raw
+Sagu kasbi segar,100,230,0.6,0.2,56.5,3,umbi,raw
+Sagu lempeng,100,347,0.9,0.3,85.2,4.7,umbi,raw
+"Sagu singkong, kering",100,362,0.5,0.3,86.9,,umbi,raw
+"Sente, talas, segar",100,353,0.7,0.2,84.7,6.6,umbi,raw
+"Suweg, talas, segar",100,74,1.4,0.1,17.2,1.4,umbi,raw
+"Talas bogor, segar",100,108,1.4,0.4,25,0.9,umbi,raw
+"Talas pontianak, segar",100,163,2.3,0.5,36.4,0.7,umbi,raw
+"Talas viqueque, segar",100,115,1.8,0.5,25.9,8.6,umbi,raw
+"Ubi jalar, kuning, segar",100,119,0.5,0.4,25.1,4.2,umbi,raw
+"Ubi jalar manis, segar",100,83,1.5,0.2,18.8,0.6,umbi,raw
+"Ubi jalar merah, segar",100,151,1.6,0.3,35.4,0.7,umbi,raw
+"Ubi jalar putih, segar",100,88,0.4,0.4,20.6,4,umbi,raw
+"Ubi jalar tinta/
+kemayung",100,108,0.5,0.4,25.6,4.2,umbi,raw
+"Umbi Uwi, segar",100,120,2.8,0.5,82.3,2.6,umbi,raw
+"Batatas kelapa, ubi,
+bakar",100,110,1.4,1.1,23.4,4.5,umbi,processed
+"Batatas kelapa, ubi,
+kukus",100,92,1.2,0.3,21,4.1,umbi,processed
+"Batatas tali, ubi, rebus",100,182,2.4,0.4,42.2,9.2,umbi,processed
+"Belitung, talas, kukus",100,145,1.2,0.4,34.2,1,umbi,processed
+"Bentul, talas, kukus",100,71,2.3,0.3,15.4,0.5,umbi,processed
+"Gadung, ubi, kukus",100,88,0.6,0.3,20.9,0.9,umbi,processed
+"Ganyong, rebus",100,100,0.8,0.2,23.8,0.9,umbi,processed
+"Ketela pohon/
+singkong kukus",100,153,1.2,0.3,36.4,1.3,umbi,processed
+"Suweg, talas, kukus",100,93,1.5,0.1,21.9,0.9,umbi,processed
+"Talas bogor, kukus",100,120,1.5,0.3,28.2,0.7,umbi,processed
+"Ubi jalar, kuning,
+kukus",100,100,0.7,0.3,23.8,1,umbi,processed
+"Ubi jalar tinta/
+kemayung kukus",100,165,0.9,0.2,39.8,1.1,umbi,processed
+Bagea kelapa asin,100,450,3.2,13.9,78.1,,umbi,processed
+Bagea kelapa manis,100,452,1.3,13.8,80.6,,umbi,processed
+Bagea kenari asin,100,529,3.2,29.1,63.6,,umbi,processed
+Bagea kenari manis,100,523,3.2,28.2,64.2,,umbi,processed
+Bagea kw 1,100,416,6.5,9.4,76.3,0.4,umbi,processed
+Bagea kw 2,100,382,0.3,3.5,87.2,0.9,umbi,processed
+Beras Cerdas,100,350,2.7,1.1,82.3,6.2,umbi,processed
+Beras ganyong,100,364,3.4,0.7,86.3,4.7,umbi,processed
+Beras Siger,100,344,1.1,0.2,28.3,5.6,umbi,processed
+Biji nangka/Biji salak,100,262,2.3,5.4,51.1,8,umbi,processed
+Bubur sagu,100,167,0.2,4,33,,umbi,processed
+Cassavastick,100,460,0.8,18.7,17.2,1.6,umbi,processed
+"Ceriping getuk
+singkong",100,462,1.2,20.7,67.7,0.6,umbi,processed
+Gatot,100,347,1.3,0.7,83.8,5.8,umbi,processed
+Geblek,100,195,0.4,1.7,44.4,3.6,umbi,processed
+Getuk goreng,100,360,1.3,6.4,74.3,0.8,umbi,processed
+Getuk singkong,100,204,0.5,1.4,47.4,0.8,umbi,processed
+Gurandil,100,218,0.5,2.5,48.5,3.1,umbi,processed
+Kabuto,100,250,2.6,2.5,35.4,1.8,umbi,processed
+Kapurung,100,41,2,0.3,7.8,2,umbi,processed
+"Kecimpring singkong
+goreng",100,464,1.2,18.6,73,1.3,umbi,processed
+Keremes,100,475,1.6,25.2,64.4,2.1,umbi,processed
+Keripik gadung,100,446,2.8,14.5,76,1.7,umbi,processed
+Keripik kentang,100,448,2.7,18.8,67.1,3.8,umbi,processed
+Keripik singkong,100,478,0.9,20.7,72,2,umbi,processed
+"Keripik singkong
+berbumbu",100,481,2.2,19.7,73.6,1.6,umbi,processed
+Keripik ubi,100,486,0.2,23.9,67.6,14.3,umbi,processed
+Kerupuk cumi goreng,100,444,6.9,14.6,71.3,5,umbi,processed
+"Kerupuk kemplang
+(ikan) mentah",100,325,1.8,0.4,78.5,4.5,umbi,processed
+"Kerupuk kemplang
+goreng",100,504,5.6,28.1,57.1,0.3,umbi,processed
+"Kerupuk kemplang
+panggang",100,356,9.7,1.1,76.9,1,umbi,processed
+"Kerupuk mie kuning
+goreng",100,476,0.1,21.1,71.3,4.2,umbi,processed
+Kerupuk udang goreng,100,477,4.7,20.5,68.5,5,umbi,processed
+Kue bangket,100,338,1.5,1.2,80.3,,umbi,processed
+Kue putu singkong,100,217,1.2,0.5,53.2,2.4,umbi,processed
+Lanting getuk,100,422,0.9,10.8,80.4,1.4,umbi,processed
+Mi golosor,100,71,0.2,0.8,15.9,0.1,umbi,processed
+Mie Bendo,100,353,0.3,0,88,2.4,umbi,processed
+Mie Sagu,100,190,0.2,0.4,46.5,1.4,umbi,processed
+Ongol-ongol sagu,100,111,0.3,2.7,21.2,0.3,umbi,processed
+Oyek,100,351,0.9,0.9,84.9,4.3,umbi,processed
+Papeda,100,61,0.2,0.1,14.9,0.5,umbi,processed
+Rasbi (Beras Ubi),100,394,2.2,8.8,76.6,6.8,umbi,processed
+Rasi (Beras Singkong),100,350,0.9,0.4,85.7,14.4,umbi,processed
+Sagu forno,100,291,0.5,4,63.4,,umbi,processed
+"Sagu Lemak (Kue
+Sagon)",100,452,2.8,14.8,76.8,1.1,umbi,processed
+Sagu manis,100,287,0.5,3.9,62.4,,umbi,processed
+Sagu Rendang,100,364,0.1,0.2,90.5,1.9,umbi,processed
+Sagu sinole,100,354,0.8,8.3,68.9,,umbi,processed
+"Serimping talas
+kebumen",100,478,2.5,21.2,69.2,1.7,umbi,processed
+Tapai singkong,100,169,1.4,0.3,40.2,2,umbi,processed
+Tepung Arrowroot,100,355,0.7,0.2,85.2,0.4,umbi,processed
+Tepung Ganyong,100,353,0.8,1.7,83.6,0.7,umbi,processed
+Tepung Gaplek,100,345,2.4,0.4,83.1,6.7,umbi,processed
+"Tepung kentang,
+kering",100,347,0.3,0.1,85.6,0.4,umbi,processed
+Tepung Mocaf,100,350,1.2,0.6,85,6,umbi,processed
+Tepung Sente,100,326,4,0.4,76.7,8.5,umbi,processed
+"Tepung singkong/
+Tapioka",100,363,1.1,0.5,88.2,0.9,umbi,processed
+Tepung Tales Beneng,100,332,5.7,0.6,76.1,12.2,umbi,processed
+Tepung Ubi Ungu,100,354,2.8,0.6,84.4,12.9,umbi,processed
+Tiwul,100,353,2.4,1.1,83.4,6.5,umbi,processed
+Tiwul Instan,100,395,3.2,8.5,76.5,4.2,umbi,processed
+Ubi Cilembu,100,186,1.9,0.2,44.3,3.4,umbi,processed
+Uli batatas,100,150,1.1,4,27.4,,umbi,processed
+"Kacang arab, kering",100,330,23.8,1.4,60.2,17.4,"kacang, biji",raw
+"Kacang babi, kering",100,341,30.4,3.2,51.3,4.5,"kacang, biji",raw
+"Kacang belimbing
+(kecipir), kering",100,400,34.4,16.9,34.1,10.7,"kacang, biji",raw
+"Kacang beracun, segar",100,118,4.4,1.5,21.6,,"kacang, biji",raw
+"Kacang bogor, kering",100,370,16,6,65,26.3,"kacang, biji",raw
+"Kacang bogor, segar",100,165,7.7,3.1,27.4,2.5,"kacang, biji",raw
+"Kacang endel, biji,
+kering",100,331,25,1,58,23.6,"kacang, biji",raw
+"Kacang ercis, segar",100,129,12.4,0.7,18.3,28.6,"kacang, biji",raw
+"kacang galing, segar",100,336,23.1,1.7,59.5,,"kacang, biji",raw
+"Kacang gude, biji,
+kering",100,316,20.7,1,58,4.6,"kacang, biji",raw
+"Kacang gude, biji,
+segar",100,114,7,0.6,20.8,4.4,"kacang, biji",raw
+"Kacang hijau var,
+bakti, kering",100,350,17.1,1.8,70.7,5.7,"kacang, biji",raw
+"Kacang hijau var,
+siwalik, kering",100,339,20.8,2.1,64.6,7.4,"kacang, biji",raw
+"Kacang hijau, kering",100,323,22.9,1.5,56.8,7.5,"kacang, biji",raw
+"Kacang hitam, kering",100,346,16.6,1.7,66.1,22.8,"kacang, biji",raw
+"Kacang kapri, segar",100,98,6.7,0.4,17.7,6.2,"kacang, biji",raw
+"Kacang kedelai, kering",100,381,40.4,16.7,24.9,3.2,"kacang, biji",raw
+"Kacang kedelai, segar",100,286,30.2,15.6,30.1,2.9,"kacang, biji",raw
+"Kacang kincai, kering",100,444,19.9,16,55,,"kacang, biji",raw
+"Kacang komak, segar",100,327,16.4,4.3,55.8,0.5,"kacang, biji",raw
+"Kacang kuning, kering",100,355,17,2.5,66,15.1,"kacang, biji",raw
+"Kacang lebui /iris,
+kering",100,346,16.5,1.5,66.6,37.3,"kacang, biji",raw
+"Kacang mentega,
+kering",100,344,16.7,2.1,64.6,13,"kacang, biji",raw
+"Kacang merah /banda,
+kering",100,350,13.9,3,66.9,26.3,"kacang, biji",raw
+"Kacang merah tua,
+kering",100,280,16.7,1.6,63.2,4.6,"kacang, biji",raw
+"Kacang merah, kering",100,314,22.1,1.1,56.2,4,"kacang, biji",raw
+"Kacang merah, segar",100,171,11,2.2,28,2.1,"kacang, biji",raw
+"Kacang mete/biji
+jambu monyet, segar",100,616,16.3,48.4,28.7,0.9,"kacang, biji",raw
+"Kacang panjang, biji,
+kering",100,357,17.3,1.5,68.6,10.6,"kacang, biji",raw
+Kacang tanah sangan,100,560,29.5,43,24.1,2.9,"kacang, biji",raw
+"Kacang tanah sangan
+tanpa selaput",100,559,26.9,44.2,23.6,2.6,"kacang, biji",raw
+"Kacang tanah, kering",100,525,27.9,42.7,17.4,2.4,"kacang, biji",raw
+"Kacang tolo / tunggak,
+kering",100,331,24.4,1.9,56.6,1.6,"kacang, biji",raw
+"Kacang tunis, kering",100,351,12.2,1.2,72.9,29.5,"kacang, biji",raw
+"Kacang uci, kering",100,358,23.4,2.4,60.6,7.4,"kacang, biji",raw
+"Kacang urei, kering",100,354,12.8,1.8,69.3,26.1,"kacang, biji",raw
+"Kenari banda, kering",100,616,13.9,56.2,13.7,,"kacang, biji",raw
+"Kenari, kering",100,657,15,66,13,,"kacang, biji",raw
+"Komak polong, segar",100,99,3.3,0.1,21.2,10.3,"kacang, biji",raw
+"Koro andong, kering",100,356,20.5,4.1,61.6,7,"kacang, biji",raw
+"Koro benguk, biji,
+kering",100,332,24,3,55,5.6,"kacang, biji",raw
+"Koro kerupuk, biji,
+segar",100,125,8.3,0.7,22.1,2.2,"kacang, biji",raw
+"Koro loke, biji, segar",100,33,2.7,0.2,7.9,3.5,"kacang, biji",raw
+"Koro roay, kering",100,344,12.5,2.1,69.4,7.5,"kacang, biji",raw
+"Koro wedus, biji,
+kering",100,338,22.2,1.5,61,5.8,"kacang, biji",raw
+"Lamtoro biji, muda,
+segar",100,85,5.7,0.3,15.4,10.8,"kacang, biji",raw
+"Lamtoro biji, tua,
+segar",100,148,10.6,0.5,26.2,17,"kacang, biji",raw
+"Lamtoro var, gung
+tanpa kulit",100,367,46.4,5.4,32.5,2.6,"kacang, biji",raw
+"Lamtoro var, lokal
+dengan kulit",100,336,23.8,1.2,59.7,15.4,"kacang, biji",raw
+"Nangka, biji, segar",100,165,4.2,0.1,36.7,1.8,"kacang, biji",raw
+"Saga merah terkupas,
+mentah",100,449,30.6,25.5,31.9,3.5,"kacang, biji",raw
+"Wijen, mentah",100,568,19.3,51.1,18.1,3.6,"kacang, biji",raw
+"Kacang belimbing,
+rebus",100,204,16.9,8.8,17.5,4.8,"kacang, biji",processed
+"Kacang bogor, goreng",100,479,12.7,23.2,58.9,1.2,"kacang, biji",processed
+"Kacang bogor, rebus",100,161,7.7,2.8,27.1,2,"kacang, biji",processed
+"Kacang gude, rebus",100,147,9,0.5,27.5,3.4,"kacang, biji",processed
+"kacang hijau, rebus",100,109,8.7,0.5,18.3,1.5,"kacang, biji",processed
+"Kacang kedelai,
+goreng",100,521,32.2,37.7,22.9,7.6,"kacang, biji",processed
+"Kacang kedelai, rebus",100,189,20.2,8.2,12.7,1.6,"kacang, biji",processed
+"Kacang merah kering,
+rebus",100,158,10.3,0.9,28.2,2.6,"kacang, biji",processed
+"Kacang merah segar,
+rebus",100,144,10,1,24.7,3.5,"kacang, biji",processed
+"Kacang mete/biji
+jambu monyet, goreng",100,629,20.4,56.3,19.8,1.1,"kacang, biji",processed
+"Kacang tanah rebus dg
+kulit",100,360,13.5,31.2,12.8,,"kacang, biji",processed
+"Kacang tanah, goreng",100,564,25.5,44.4,25.5,2.8,"kacang, biji",processed
+"Kacang tanah, rebus",100,220,10.6,18,8,1,"kacang, biji",processed
+"Kacang tolo, rebus",100,138,10.7,1.1,22.6,0.9,"kacang, biji",processed
+Ampas kacang hijau,100,96,3.7,0.6,19.1,2.7,"kacang, biji",processed
+"Ampas tahu, mentah",100,67,5,2.1,8.1,4.1,"kacang, biji",processed
+Ampas tahu kukus,100,75,4.1,2.1,10.7,5.1,"kacang, biji",processed
+"Ampas tahu, kering",100,414,26.6,18.3,41.3,0,"kacang, biji",processed
+"Pepea oncom ampas
+tahu",100,76,5.2,1.8,10.6,2.2,"kacang, biji",processed
+Bungkil biji karet,100,333,29.3,3.3,50,,"kacang, biji",processed
+Bungkil kacang tanah,100,336,37.4,13,30.5,,"kacang, biji",processed
+Bungkil kelapa,100,368,23,15,40,,"kacang, biji",processed
+Dodol banjarmasin,100,368,2.6,8.6,70,0.5,"kacang, biji",processed
+"Emping (kerupuk
+melinjo)",100,345,12,1.5,71.5,,"kacang, biji",processed
+Emping komak,100,355,17.8,4.6,60.7,,"kacang, biji",processed
+"Enting-enting gepuk
+hello kity",100,538,13.6,30.3,52.6,0.2,"kacang, biji",processed
+"Enting-enting gepuk
+kacang tanah",100,524,13.3,29.2,52,0.2,"kacang, biji",processed
+Enting-enting wijen,100,565,18.2,38.4,36.8,1.9,"kacang, biji",processed
+Geplak,100,350,1.4,14.4,53.6,1.8,"kacang, biji",processed
+Geplak jahe,100,462,3.1,24.4,57.7,3.3,"kacang, biji",processed
+Kacang atom,100,533,27.8,38.1,28.8,2.5,"kacang, biji",processed
+Kacang goyang,100,516,14.7,31.1,44.4,,"kacang, biji",processed
+Kacang negara,100,480,18.4,19.1,58.5,11.7,"kacang, biji",processed
+Kacang sukro,100,484,8.8,26.1,57.7,1.8,"kacang, biji",processed
+Kacang tanah sari,100,561,25.5,43.8,26,2.2,"kacang, biji",processed
+"Keju kacang tanah
+(peanut butter)",100,590,27,49,20.9,1.6,"kacang, biji",processed
+Kembang tahu,100,380,48.9,13.8,23.3,0,"kacang, biji",processed
+Kembang tahu rebus,100,90,10.7,4,4.7,,"kacang, biji",processed
+Keripik oncom,100,598,8.3,43.8,42.6,3.3,"kacang, biji",processed
+Keripik tempe,100,581,12.1,40.6,41.7,2.2,"kacang, biji",processed
+"Keripik tempe abadi
+besar",100,556,15.8,37.1,39.8,3.5,"kacang, biji",processed
+"Keripik tempe abadi
+murni",100,542,40.3,42.4,11.6,2.2,"kacang, biji",processed
+"Keripik tempe abadi
+sedang",100,510,12.3,27.9,52.4,3.6,"kacang, biji",processed
+"Keripik tempe abadi
+telur",100,529,20.8,31.7,40.2,3,"kacang, biji",processed
+"Kerupik tempe abadi
+prima",100,540,16.7,33.9,42,2.2,"kacang, biji",processed
+Kwaci,100,515,30.6,42.1,13.8,13.6,"kacang, biji",processed
+"Melinjo emping tebal
+goreng manis",100,439,10,16.4,65.7,,"kacang, biji",processed
+"Melinjo emping tebal,
+goreng asin",100,431,11.1,16.2,63,,"kacang, biji",processed
+"Melinjo emping tipis
+goreng",100,485,11.5,24.5,59.1,,"kacang, biji",processed
+Moon tahu,100,128,8,10,1.3,0.2,"kacang, biji",processed
+Oncom,100,187,13,6,22.6,,"kacang, biji",processed
+"Oncom ampas kacang
+hijau",100,376,14.9,6,65.7,12.3,"kacang, biji",processed
+"Oncom kacang hijau +
+singkong",100,351,11,5.3,65.9,9,"kacang, biji",processed
+"Oncom kacang tanah
+pepes",100,132,12.7,3.8,13.7,3.1,"kacang, biji",processed
+"Rempeyek kacang
+tanah",100,513,17.5,32.5,44.3,1.7,"kacang, biji",processed
+Rempeyek kacang tolo,100,451,11.2,20.2,59.7,1.8,"kacang, biji",processed
+Rempeyek kacang uci,100,497,17,27.6,50.8,2.4,"kacang, biji",processed
+Sayur lebui,100,64,2.1,0.6,12.5,5.7,"kacang, biji",processed
+"Saridele, bubuk",100,344,30,20,43,6.2,"kacang, biji",processed
+Susu kedelai,100,41,3.5,2.5,5,0.2,"kacang, biji",processed
+"Tahu, mentah",100,80,10.9,4.7,0.8,0.1,"kacang, biji",processed
+Tahu goreng,100,115,9.7,8.5,2.5,0.1,"kacang, biji",processed
+Tahu telur,100,328,12.6,19.9,24.6,0.4,"kacang, biji",processed
+Takwa,100,148,13.8,8.5,4,0,"kacang, biji",processed
+Tauco,100,184,11.4,5.5,22.2,1.9,"kacang, biji",processed
+"Tauco cap beruang,
+cake",100,347,7.4,5.2,67.6,3.2,"kacang, biji",processed
+"Tauco cap DAS, cake",100,358,7.5,4.3,70.4,3.1,"kacang, biji",processed
+Tauco cap meong,100,159,7.4,4.9,21.3,1.6,"kacang, biji",processed
+Tauji cap singa,100,277,9.1,4.7,49.6,1.2,"kacang, biji",processed
+Tempe bongkrek,100,119,4.4,3.5,18.3,,"kacang, biji",processed
+Tempe gembus P3G,100,73,5.7,1.3,10.3,4.2,"kacang, biji",processed
+Tempe gembus yogya,100,76,6.8,0.7,10.6,5.3,"kacang, biji",processed
+Tempe kacang babi,100,139,12.5,0.8,21.9,1.8,"kacang, biji",processed
+"Tempe kacang
+belimbing",100,212,17.5,10,12.9,2.9,"kacang, biji",processed
+"Tempe kedelai +
+jagung",100,143,12,5.5,11.4,1.9,"kacang, biji",processed
+"Tempe kedelai murni,
+goreng",100,350,24.5,26.6,10.4,4.2,"kacang, biji",processed
+"Tempe kedelai murni,
+mentah",100,201,20.8,8.8,13.5,1.4,"kacang, biji",processed
+Tempe koro benguk,100,141,10.2,1.3,23.2,,"kacang, biji",processed
+Tempe lamtoro,100,128,10.7,0.5,21.3,7.1,"kacang, biji",processed
+"Tempe lamtoro var,
+gung dengan kulit",100,146,11.7,2.3,19.6,7.6,"kacang, biji",processed
+"Tempe lamtoro var,
+gung tanpa kulit",100,131,18,0.8,13,1.3,"kacang, biji",processed
+Tempe pasar,100,150,14,7.7,9.1,1.4,"kacang, biji",processed
+Tempe pasar goreng,100,336,20,28,7.8,3.4,"kacang, biji",processed
+"Tepung hunkwe (pati
+kacang ijo)",100,364,4.5,1,83.5,16.1,"kacang, biji",processed
+"Akar tonjong, segar",100,45,1.1,0.4,10.8,1.2,sayuran,raw
+"Ale,toge, segar",100,37,4.4,0.5,3.8,1.7,sayuran,raw
+"Andaliman, segar",100,99,4.6,1,18,8.5,sayuran,raw
+"Andewi, segar",100,226,1.6,0.2,5.3,4.1,sayuran,raw
+"Bakung, segar",100,27,2,0.2,4.2,3.8,sayuran,raw
+"Baligo, segar",100,15,0.4,0.2,3,0.4,sayuran,raw
+"Bawang bombay,
+segar",100,43,1.4,0.2,10.3,2,sayuran,raw
+"Bayam, segar",100,16,0.9,0.4,2.9,0.7,sayuran,raw
+"Bayam merah, segar",100,41,2.2,0.8,6.3,2.2,sayuran,raw
+"Bit, segar",100,41,1.6,0.1,9.6,2.6,sayuran,raw
+Buah kelor,100,38,1.5,0.2,7.5,3.2,sayuran,raw
+Buah merah,100,87,2.6,2.7,13.1,4,sayuran,raw
+"Buncis, segar",100,34,2.4,0.3,7.2,1.9,sayuran,raw
+"Bunga pepaya, segar",100,45,2.6,0.3,8.1,1.6,sayuran,raw
+"Bunga turi, segar",100,42,2,1.1,6.1,3.3,sayuran,raw
+"Caisin, segar",100,20,1.7,0.4,3.4,1.2,sayuran,raw
+"Daun bangun-bangun,
+segar",100,27,1.3,0.6,4,1,sayuran,raw
+"Daun bawang  merah,
+segar",100,41,2,0.3,7.8,2.1,sayuran,raw
+"Daun bebuas, segar",100,41,2.7,1,7.3,2.1,sayuran,raw
+"Daun belem, segar",100,50,4.4,1.4,7.8,1.9,sayuran,raw
+"Daun bluntas, segar",100,44,1.8,0.5,9.4,,sayuran,raw
+"Daun gandaria, segar",100,63,3.1,0.3,14,2.1,sayuran,raw
+"Daun gedi besar, segar",100,58,2.9,0.7,10,3.3,sayuran,raw
+"Daun gedi kecil, segar",100,61,3.2,0.7,10.4,3.4,sayuran,raw
+"Daun gelang, segar",100,30,1.3,0.7,5.8,1.3,sayuran,raw
+"Daun gunda bali,
+segar",100,50,4.6,0.9,7,1.4,sayuran,raw
+"Daun gunda serang,
+segar",100,62,4.2,0.9,9.2,1.3,sayuran,raw
+"Daun jambu mete
+muda, segar",100,78,4.6,0.5,16.2,3,sayuran,raw
+"Daun jampang, segar",100,34,3.8,0.5,5.3,1.4,sayuran,raw
+"Daun jawaw seluang,
+segar",100,93,5,1.3,15.3,3.9,sayuran,raw
+"Daun jonghe, segar",100,27,2.1,0.7,4.4,2,sayuran,raw
+"Daun kacang ma,
+segar",100,36,2.9,0.6,6.8,1.8,sayuran,raw
+"Daun kacang panjang,
+segar",100,30,3.1,0.3,5.8,1.7,sayuran,raw
+"Daun kasbi/singkong
+karet, segar",100,92,4,3.6,10.9,5.8,sayuran,raw
+"Daun katuk, segar",100,59,6.4,1,9.9,1.5,sayuran,raw
+"Daun kecipir, segar",100,52,5,0.5,8.5,,sayuran,raw
+"Daun kedondong,
+segar",100,59,3.5,0.3,13.4,10.7,sayuran,raw
+"Daun kelor, segar",100,92,5.1,1.6,14.3,8.2,sayuran,raw
+"Daun kemang, segar",100,43,5.5,0.3,7.5,8.4,sayuran,raw
+"Daun kenikir, segar",100,45,3.7,0.5,6.6,5.8,sayuran,raw
+"Daun kesum, segar",100,48,4.5,0.8,9.1,1.6,sayuran,raw
+"Daun kol sawi, segar",100,22,2.1,0.5,3.6,0.9,sayuran,raw
+"Daun koro, segar",100,23,3,0.3,3.7,,sayuran,raw
+"Daun kubis, segar",100,51,2.5,1.1,8,3.4,sayuran,raw
+"Daun kumak, segar",100,14,1.3,0.3,2.3,0.9,sayuran,raw
+"Daun labu siam, segar",100,34,4,0.4,4.7,3.5,sayuran,raw
+"Daun labu
+waluh/kuning, segar",100,34,3.6,0.6,4.5,2.9,sayuran,raw
+"Daun lamtoro, segar",100,87,8.3,1.8,14.4,3.3,sayuran,raw
+"Daun leilem, segar",100,76,2.8,0.2,15.8,3.1,sayuran,raw
+"Daun leunca, segar",100,49,4.7,0.5,8.1,,sayuran,raw
+"Daun lobak, segar",100,30,2.3,0.4,5.8,3.2,sayuran,raw
+"Daun lompong talas,
+segar",100,44,3,0.8,7.4,3.3,sayuran,raw
+"Daun mangkokan,
+segar",100,57,3.7,0.3,11.8,,sayuran,raw
+"Daun matel ambon,
+segar",100,71,6.8,1.6,11.5,4.6,sayuran,raw
+"Daun melinjo, segar",100,104,5,1.3,21.3,10.3,sayuran,raw
+"Daun mengkudu,
+segar",100,65,4,1.7,11.4,3.9,sayuran,raw
+"Daun ndusuk, segar",100,166,1.7,0.5,38.8,10.7,sayuran,raw
+"Daun oyong, segar",100,22,1,0.1,5.3,2,sayuran,raw
+"Daun pakis, segar",100,39,4.5,0.4,6.9,2,sayuran,raw
+"Daun pakis longgiho,
+segar",100,54,2.2,3.6,3.1,2.1,sayuran,raw
+"Daun pakis
+wambateu, segar",100,53,3.4,1.2,7.2,4.8,sayuran,raw
+"Daun paku, segar",100,29,3.4,0.1,6.5,4.3,sayuran,raw
+"Daun pangi,segar",100,104,3.9,0.6,17.9,8.3,sayuran,raw
+"Daun pare, segar",100,49,2.7,1,8.4,3,sayuran,raw
+"Daun pepaya, segar",100,87,8,2,11.9,1.5,sayuran,raw
+"Daun pohpohan, segar",100,37,2.5,0.8,6.9,2.6,sayuran,raw
+"Daun selasih, segar",100,62,4,0.5,10.5,5.3,sayuran,raw
+"Daun semanggi, segar",100,45,4.4,0.5,8.5,1.9,sayuran,raw
+"Daun simpur, segar",100,53,3.2,2.5,7.6,1.6,sayuran,raw
+"Daun singkil, segar",100,68,2,1,15.2,3.3,sayuran,raw
+"Daun singkong, segar",100,50,6.2,1.1,7.1,2.4,sayuran,raw
+"Daun singkong
+ambon, segar",100,144,12.7,1.2,25.2,10.2,sayuran,raw
+"Daun singkong
+ampenan, segar",100,50,6.2,1.1,7.1,2.4,sayuran,raw
+"Daun singkong
+kopang, segar",100,74,6.3,0.7,10.7,4.6,sayuran,raw
+"Daun sintrong, segar",100,36,2.6,0.9,6.1,1.7,sayuran,raw
+"Daun talas, segar",100,59,3,0.4,13.5,3,sayuran,raw
+"Daun tespong, segar",100,70,2.9,0.3,13.9,2.3,sayuran,raw
+"Daun ubi kuning,
+segar",100,62,3.7,0.3,11.1,6.4,sayuran,raw
+"Daun ubi merah, segar",100,48,3,0.3,10.8,1.4,sayuran,raw
+"Daun ubi putih, segar",100,46,2.8,0.2,8.2,4.8,sayuran,raw
+"Daun ubi tinta, segar",100,55,1.7,0.1,11.9,7.6,sayuran,raw
+"Eceng, segar",100,19,1,0.2,3.8,1.8,sayuran,raw
+"Gambas (oyong),
+segar",100,19,0.8,0.2,4.1,1.3,sayuran,raw
+"Genjer, segar",100,35,1.7,0.2,7.7,2.5,sayuran,raw
+"Jagung muda / semi,
+segar",100,35,2.2,0.1,7.4,1.9,sayuran,raw
+Jamur encik,100,296,9.4,1.1,62,,sayuran,raw
+"Jamur kuping, kering",100,294,16,0.9,64.6,46.5,sayuran,raw
+"Jamur kuping, segar",100,21,3.8,0.6,0.9,5.1,sayuran,raw
+"Jamur merang, segar",100,30,3.5,0.2,4,2.4,sayuran,raw
+"Jamur tiram, segar",100,30,1.9,0.1,5.5,3.6,sayuran,raw
+Jamur sagu,100,48,1.9,3.2,2.8,1,sayuran,raw
+"Jantung pisang, segar",100,32,1.2,0.3,7.1,3.2,sayuran,raw
+"Jengkol, segar",100,192,5.4,0.3,40.7,1.5,sayuran,raw
+"Jotang, segar",100,34,1.9,0.3,7.1,3.5,sayuran,raw
+"Kabau, segar",100,130,6.7,0.3,25.2,2.9,sayuran,raw
+"Kacang mekah,
+polong, segar",100,22,1.1,1,3.4,1.1,sayuran,raw
+"Kacang panjang, segar",100,31,2.3,0.1,5.3,2.7,sayuran,raw
+Kacang ranti polong,100,37,3.1,0.2,7.9,2.5,sayuran,raw
+"Kalakai, segar",100,38,2.4,0.2,6.6,5.8,sayuran,raw
+"Kangkung, segar",100,28,3.4,0.7,3.9,2,sayuran,raw
+Kangkung tondano,100,43,1.8,0.2,8.4,4.3,sayuran,raw
+"Kapri muda, segar",100,45,3.3,0.2,9,1.8,sayuran,raw
+Karawila,100,25,2.3,0.2,3.5,2.1,sayuran,raw
+"Kecipir muda, segar",100,32,2.9,0.2,5.8,5.5,sayuran,raw
+"Kecombrang, segar",100,34,0.9,1,6.7,2.6,sayuran,raw
+"Kelawi,kluwih, segar",100,118,1.5,0.3,27.2,5,sayuran,raw
+"Kembang turi, segar",100,51,1.8,0.6,9.6,5,sayuran,raw
+"Kerokot, segar",100,26,1.7,0.4,3.8,1,sayuran,raw
+"Ketimun, segar",100,8,0.2,0.2,1.4,0.3,sayuran,raw
+"Ketimun krai, segar",100,10,0.5,0.2,2,0.6,sayuran,raw
+"Ketimun madura,
+segar",100,9,0.5,0.1,1.9,0.7,sayuran,raw
+"Komak, segar",100,99,3.3,0.1,21.2,10.3,sayuran,raw
+Kool kembang,100,25,2.4,0.2,4.9,1.6,sayuran,raw
+"Kool merah,kool putih",100,29,1.4,0.2,5.3,1.9,sayuran,raw
+"Koro kerupuk, polong",100,128,8.3,0.7,22.1,,sayuran,raw
+"Koro wedus, polong",100,46,3,0.3,7.9,3.3,sayuran,raw
+"Kucai, segar",100,45,2.2,0.3,10.3,4.8,sayuran,raw
+"Kucai muda (Lokio),
+segar",100,42,3.8,0.6,7.8,4.9,sayuran,raw
+Kulit melinjo,100,111,4.5,1.1,20.7,5,sayuran,raw
+"Kundur, segar",100,22,0.4,0.2,4.7,1.3,sayuran,raw
+"Labu air, segar",100,19,0.6,0.2,3.8,0.6,sayuran,raw
+"Labu kuning, segar",100,51,1.7,0.5,10,2.7,sayuran,raw
+"Labu siam, segar",100,30,0.6,0.1,6.7,6.2,sayuran,raw
+"Labu waluh, segar",100,32,1.1,0.1,6.6,0.5,sayuran,raw
+"Lantar, segar",100,34,2.2,0.3,5.5,2.9,sayuran,raw
+"Lobak, segar",100,21,0.9,0.1,4.2,1.4,sayuran,raw
+"Lumai/Leunca, segar",100,38,1.1,0.3,7.6,2,sayuran,raw
+"Melinjo, segar",100,66,5,0.7,13.3,,sayuran,raw
+Mostarda metan -sawi,100,33,2.3,0.5,4.7,1.8,sayuran,raw
+"Nangka muda, segar",100,57,2,0.4,11.3,8.3,sayuran,raw
+"Paria putih, segar",100,19,1,0.4,3.6,1.3,sayuran,raw
+"Pepare ular, segar",100,19,0.6,0.1,3.9,1,sayuran,raw
+"Pepaya muda, segar",100,29,2.1,0.1,4.9,2.1,sayuran,raw
+"Petai, segar",100,92,5.4,1.1,15.2,2,sayuran,raw
+"Peterseli, segar",100,53,3.7,1,9,0,sayuran,raw
+"Pucuk lumai/daun
+leunca, segar",100,33,4.5,0.4,2.8,,sayuran,raw
+"Putri malu, segar",100,76,3.6,0.3,14.6,7.1,sayuran,raw
+"Alpukat, segar",100,85,0.9,6.5,7.7,,buah,raw
+"Anggur hutan, segar",100,30,0.5,0.2,6.8,1.2,buah,raw
+"Apel malang, segar",100,57,0.5,0.4,12.8,0.8,buah,raw
+"Apel, segar",100,58,0.3,0.4,14.9,2.6,buah,raw
+"Arbai, segar",100,37,0.8,0.5,8.3,,buah,raw
+"Belimbing, segar",100,36,0.4,0.4,8.8,3.2,buah,raw
+"Biwah, segar",100,51,0.3,0.1,12.1,0.7,buah,raw
+"Buah atung, segar",100,23,0.8,0.2,5.2,,buah,raw
+"Buah kelenting, segar",100,110,1.4,2.1,21.4,,buah,raw
+"Buah kom, segar",100,264,4,1.1,59.6,9,buah,raw
+"Buah mentega
+(Bisbul), segar",100,39,0.7,0.2,9.7,2,buah,raw
+"Buah Naga Merah,
+segar",100,71,1.7,3.1,9.1,3.2,buah,raw
+"Buah Naga Putih,
+segar",100,56,0.8,1,10.9,3.2,buah,raw
+"Buah negri, segar",100,55,1.2,0.1,12.2,5.2,buah,raw
+"Buah nona, segar",100,101,1.7,0.6,25.2,2.8,buah,raw
+"Buah rotan, segar",100,78,0.6,0.3,18.2,,buah,raw
+"Buah rukam, segar",100,113,0.8,0.3,26.8,7.7,buah,raw
+"Buah ruruhi, segar",100,29,2.1,0.7,3.6,2.6,buah,raw
+"Buah tuppa, segar",100,67,0.4,0.2,15.9,,buah,raw
+"Carica papaya, segar",100,24,1.9,0.2,3.7,1,buah,raw
+"Cempedak, segar",100,116,3,0.4,28.6,3.4,buah,raw
+"Duku, segar",100,63,1,0.2,16.1,4.3,buah,raw
+"Durian, segar",100,134,2.5,3,28,3.5,buah,raw
+"Duwet, segar",100,80,0.5,0.6,18.2,0.9,buah,raw
+"Embacang, segar",100,98,1.4,0.2,25.4,1.9,buah,raw
+"Encung asam, segar",100,122,3.5,4.5,17.5,9.3,buah,raw
+"Erbis, segar",100,70,0.6,0,18.9,7.7,buah,raw
+Gandaria masak,100,68,0.7,0.1,18,2.2,buah,raw
+"Gatep, segar",100,191,4.5,1.5,39.7,13.4,buah,raw
+"Jambu air, segar",100,46,0.6,0.2,11.8,2.1,buah,raw
+Jambu biji,100,49,0.9,0.3,12.2,2.4,buah,raw
+"Jambu bj putih tdk
+brbj",100,61,0.9,0.3,15.4,4.5,buah,raw
+"Jambu bol, segar",100,49,2.3,0.2,9.6,3.5,buah,raw
+"Jambu monyet, segar",100,64,0.7,0.6,15.8,1.2,buah,raw
+"Jeruk bali, segar",100,48,0.6,0.2,12.4,0.8,buah,raw
+"Jeruk banjar, segar",100,61,0.8,0.2,14.1,5.4,buah,raw
+Jeruk garut-keprok,100,44,0.8,0.3,10.9,1.6,buah,raw
+"Jeruk Kalamansi, segar",100,39,0.3,0.3,8.9,2.3,buah,raw
+"Jeruk manis, segar",100,45,0.9,0.2,11.2,1.4,buah,raw
+"Jeruk nipis, segar",100,44,0.5,0.2,10,0.4,buah,raw
+"Jeruk ragi, segar",100,49,0.7,0.2,11.1,0.5,buah,raw
+"Kawista, segar",100,120,3.5,2.5,20.8,4.6,buah,raw
+"Kedondong masak,
+segar",100,46,1,0.1,10.3,2.6,buah,raw
+"Kedondong, segar",100,47,0.5,0.2,10.4,2.7,buah,raw
+"Kelapa hutan, kering",100,623,2,"52.
+1",36.5,15.3,buah,raw
+"Kelapa muda, daging,
+segar",100,68,1,0.9,14,0,buah,raw
+"Kemang, segar",100,48,1,0.2,11.9,1.7,buah,raw
+"Kesemek, segar",100,78,0.8,0.4,20,0.6,buah,raw
+"Kokosan, segar",100,86,1.6,0.2,13,1.4,buah,raw
+"Kranji, segar",100,315,2.1,1.4,73.5,3.6,buah,raw
+"Langsat, segar",100,56,0.9,0.2,14.3,1.4,buah,raw
+"Lemon, segar",100,34,0.5,0.8,6.2,0.1,buah,raw
+"Lontar, segar",100,27,0.4,0.2,6,1.6,buah,raw
+"Mangga, segar",100,52,0.7,0,12.3,1.6,buah,raw
+"Mangga benggala,
+segar",100,63,2.4,0.4,12.4,5.8,buah,raw
+"Mangga gedung, segar",100,44,0.7,0.2,11.2,1.6,buah,raw
+"Mangga golek, segar",100,63,0.5,0.2,16.7,2.3,buah,raw
+"Mangga harumanis,
+segar",100,46,0.4,0.2,11.9,1.7,buah,raw
+"Mangga indramayu,
+segar",100,72,0.8,0.2,18.7,2.5,buah,raw
+"Mangga kopek, segar",100,56,0.4,0.2,14.6,2,buah,raw
+"Mangga kwini, segar",100,86,0.7,0.5,19.8,6.5,buah,raw
+"Mangga manalagi,
+segar",100,133,1,0.1,32.1,11.8,buah,raw
+"Mangga muda, segar",100,59,0.5,0.4,15.1,,buah,raw
+"Manggis, segar",100,63,0.6,0.6,15.6,1.5,buah,raw
+"Markisa, segar",100,144,3.5,1.2,29.8,11.4,buah,raw
+"Matoa, segar",100,90,1.2,0.1,21.1,0.5,buah,raw
+"Melon, segar",100,37,0.6,0.4,7.8,1,buah,raw
+"Menteng, segar",100,65,1.7,0.3,16.1,,buah,raw
+"Nanas palembang,
+segar",100,58,0.7,0.2,13.3,1.6,buah,raw
+"Nanas, segar",100,40,0.6,0.3,9.9,0.6,buah,raw
+"Nangka masak pohon,
+segar",100,106,1.2,0.3,27.6,3.7,buah,raw
+"Pala, daging, segar",100,42,0.3,0.2,10.9,0.5,buah,raw
+"Pepaya, segar",100,46,0.5,12,12.2,1.6,buah,raw
+"Pisang ambon, segar",100,108,1,0.8,24.3,1.9,buah,raw
+"Pisang angleng (pisang
+ampyang), segar",100,68,1.3,0.2,17.2,0.8,buah,raw
+"Pisang ayam, segar",100,120,1.1,0.2,26.8,4.1,buah,raw
+"Pisang gapi, segar",100,131,1.6,0.1,31.1,11.7,buah,raw
+"Pisang goroho, segar",100,119,1.5,0.2,27.9,4.6,buah,raw
+"Pisang hijau, segar",100,121,1,0.1,28.9,0.4,buah,raw
+"Pisang kayu, segar",100,100,1.4,0.5,23.6,2.6,buah,raw
+"Pisang kepok, segar",100,109,0.8,0.5,26.3,5.7,buah,raw
+"Pisang ketip, segar",100,145,1.1,0.3,34.5,6.6,buah,raw
+"Pisang kidang, segar",100,96,1,0.2,22.5,0.6,buah,raw
+"Pisang lampung, segar",100,99,1.3,0.2,25.6,4.3,buah,raw
+"Pisang mas bali
+ampenan, segar",100,92,1.4,0.2,21,3.7,buah,raw
+"Pisang mas bali
+kopang, segar",100,127,1.4,0.2,31.8,3.7,buah,raw
+"Pisang mas, segar",100,127,1.4,0.2,33.6,1.4,buah,raw
+"Pisang raja sereh,
+segar",100,108,1.3,0.3,28.2,0.7,buah,raw
+"Pisang raja, segar",100,120,1.2,0.2,31.8,5.3,buah,raw
+"Pisang rotan, segar",100,98,1.3,1.2,20.5,1,buah,raw
+"Pisang talas, segar",100,113,1.2,0.2,26.7,4.4,buah,raw
+Pisang tujuh bulan,100,94,0.6,0.2,22.5,3.7,buah,raw
+"Pisang ua, segar",100,128,0.8,0.5,30.2,8.1,buah,raw
+"Pisang uli, segar",100,134,1.1,0.5,35.5,1.4,buah,raw
+"Purut, segar",100,76,4.1,1.1,15.2,1.7,buah,raw
+"Rambutan binjai,
+segar",100,76,0.5,0.2,18,3.8,buah,raw
+"Rambutan, segar",100,69,0.9,0.1,18.1,0.8,buah,raw
+"Salak bali, segar",100,57,0.5,0.1,13.6,1.3,buah,raw
+"Salak medan, segar",100,55,0.4,0.2,12.8,3.2,buah,raw
+"Salak pondoh, segar",100,87,0.8,0.4,20.1,0,buah,raw
+"Salak, segar",100,77,0.4,,20.9,,buah,raw
+"Sawo duren, segar",100,64,1,3.1,8,0.8,buah,raw
+"Sawo kecik, segar",100,111,0.9,2.3,21.6,1,buah,raw
+"Sawo Manila, segar",100,92,0.5,1.1,22.4,9.5,buah,raw
+"Semangka, segar",100,28,0.5,0.2,6.9,0.4,buah,raw
+"Sirsak, segar",100,65,1,0.3,16.3,3.2,buah,raw
+"Sowa, segar",100,48,1.6,0.6,9.1,45,buah,raw
+"Srikaya, segar",100,63,1.1,0.5,13.9,2.1,buah,raw
+"Sukun muda, segar",100,119,1.4,0.2,28.1,1.4,buah,raw
+"Sukun tua, segar",100,126,1.6,0.2,24.5,1.5,buah,raw
+"Vigus, segar",100,44,2.4,0.1,8.3,,buah,raw
+"Wani, segar",100,74,0.8,0.3,17.1,3.1,buah,raw
+Barongko,100,159,3.1,5.8,23.5,,buah,processed
+Dodol nanas,100,338,1.5,1.2,80.3,,buah,processed
+Getuk pisang,100,144,1.1,0.4,34.1,0.4,buah,processed
+Keripik lampung,100,485,1.7,"22.
+2",69.7,0.6,buah,processed
+Ledre pisang,100,405,4.8,5.1,84.9,0.4,buah,processed
+Lempog durian,100,320,3.5,5.7,63.7,4.9,buah,processed
+Loka anjoro,100,163,1.1,4.3,30,,buah,processed
+Rica-rica taipa,100,49,1.6,0.3,10,,buah,processed
+Rujak aceh,100,82,0.4,0.3,19.7,2.4,buah,processed
+Sale kesemek,100,296,1.1,0.6,71.4,,buah,processed
+Sale pisang siam,100,281,2.4,0.7,66.1,1,buah,processed
+"Sale pisang, cilacap",100,295,2.3,2.1,66.9,1.3,buah,processed
+Sanggara belanda,100,242,6.4,7.1,38.2,,buah,processed
+Tepung Pisang,100,338,2.9,0.4,80.6,5.3,buah,processed
+Tepung Sukun,100,353,2.9,0.5,84.4,3.7,buah,processed
+"Anak sapi, daging,
+gemuk, segar",100,184,18.8,14,0,0,daging,raw
+"Anak sapi, daging,
+kurus, segar",100,174,19.6,10,0,0,daging,raw
+"Anak sapi, daging,
+sedang, segar",100,190,19.1,12,0,0,daging,raw
+"Angsa, daging, segar",100,349,16.4,31.5,0,0,daging,raw
+"Ayam, daging, segar",100,298,18.2,25,0,0,daging,raw
+"Ayam, dideh/darah,
+segar",100,75,13.8,1.9,0.7,0,daging,raw
+"Ayam, hati, segar",100,261,27.4,16.1,1.6,0,daging,raw
+"Babi, daging,
+gemuk,segar",100,453,11.9,45,0,0,daging,raw
+"Babi, daging, kurus,
+segar",100,371,14.1,35,0,0,daging,raw
+"Babi, ginjal, segar",100,110,16.3,4.6,0.8,0,daging,raw
+"Babi, hati, segar",100,129,19.7,4.8,1.7,0,daging,raw
+"Bebek (itik), daging,
+segar",100,321,16,28.6,0,0,daging,raw
+"Bebek alabio, daging,
+segar",100,303,11.3,27,3.7,0,daging,raw
+"Belibis, daging, segar",100,131,20.2,4.3,2.8,0,daging,raw
+"Burung, sarang, segar",100,281,37.5,0.3,32.1,,daging,raw
+"Domba, daging,
+gemuk, segar",100,317,15.7,27.7,0,0,daging,raw
+"Domba, daging, kurus,
+segar",100,202,17.1,14.8,0,0,daging,raw
+"Domba, ginjal, segar",100,100,16.6,3.3,1,0,daging,raw
+"Kambing, daging,
+segar",100,149,16.6,9.2,0,0,daging,raw
+"Kelinci, daging, segar",100,142,16.9,7.8,0,0,daging,raw
+"Kerbau, daging, segar",100,79,18.7,0.5,0,0,daging,raw
+"Kuda, daging, segar",100,113,18.1,4.1,0.9,0,daging,raw
+"Sapi, babat, segar",100,108,17.6,4.2,0,0,daging,raw
+"Sapi, daging, gemuk,
+segar",100,273,17.5,22,0,0,daging,raw
+"Sapi, daging, kurus,
+segar",100,174,19.6,10,0,0,daging,raw
+"Sapi, daging, lemak
+sedang, segar",100,201,18.8,14,0,0,daging,raw
+"Sapi, daleman, segar",100,183,12,14.4,1.4,0,daging,raw
+"Sapi, dideh/darah",100,98,21.9,1.1,0,0,daging,raw
+"Sapi, ginjal, segar",100,137,15,8.1,0.9,0,daging,raw
+"Sapi, keleponan, segar",100,84,10.5,4.6,0.2,0,daging,raw
+"Sapi, liver, segar",100,132,19.7,3.2,6,0,daging,raw
+"Sapi, otak, segar",100,123,10.4,8.6,0.8,0,daging,raw
+"Sapi, usus, segar",100,126,14,7.2,1.5,0,daging,raw
+Ulat sagu segar,100,241,5.8,21.6,5.8,2.8,daging,raw
+"Ayam, ampela, goreng",100,270,32.3,11.2,9.9,0,daging,processed
+"Ayam, usus, goreng",100,473,45.2,26.3,13.9,0,daging,processed
+"Bebek, daging, goreng",100,300,24,20.7,4.5,0,daging,processed
+"Buaya, daging,
+dendeng, mentah",100,365,49.6,4.8,30.8,,daging,processed
+Ham,100,384,16.9,35,0.3,0,daging,processed
+"Itik alabio, daging,
+dendeng, mentah",100,496,30.3,33.5,18.4,,daging,processed
+Kerupuk urat,100,588,53.7,40.9,1.2,,daging,processed
+"Menjangan, daging,
+dendeng, mentah",100,322,55.8,2,22.7,,daging,processed
+"Punai, daging, goreng",100,224,26.2,11.3,4.4,,daging,processed
+"Rusa, daging,
+dendeng, mentah",100,536,40.5,41.5,0,,daging,processed
+"Sapi, abon",100,212,18,10.6,59.3,7.5,daging,processed
+"Sapi, abon, asli",100,358,14.6,16.1,38.6,2.5,daging,processed
+"Sapi, daging, asap",100,182,32,6,0,0,daging,processed
+"Sapi, daging, dendeng,
+mentah",100,301,55,9,0,,daging,processed
+"Sapi, daging, kornet",100,289,16,25,0,0,daging,processed
+"Sapi, daging, sosis
+(Worst)",100,448,14.5,42.3,2.3,,daging,processed
+"Sapi, hati, sosis
+(liverworst)",100,274,16,22,3,2.3,daging,processed
+"Sapi, paru, dendeng,
+mentah",100,360,57.3,6,19.2,,daging,processed
+"Sapi, paru, goreng",100,268,23.9,12.7,14.5,,daging,processed
+"Ulat sagu, panggang",100,380,11.9,30.3,14.9,4.8,daging,processed
+"Ayam goreng church
+texas, dada",100,338,35.2,20.6,0.4,0,daging,processed
+"Ayam goreng
+church,texas paha",100,287,31,15.7,1.7,0,daging,processed
+"Ayam goreng church
+texas, sayap",100,295,34,16,1.5,0,daging,processed
+"Ayam goreng kalasan,
+paha",100,275,37.4,12.2,1.3,0,daging,processed
+"Ayam goreng
+kentucky, dada",100,298,34.2,16.8,0.1,0,daging,processed
+"Ayam goreng
+Kentucky, paha",100,286,32.1,16.1,1.1,0,daging,processed
+"Ayam  goreng
+Kentucky,sayap",100,297,35.9,15.2,1.6,0,daging,processed
+"Ayam goreng mbok
+berek dada",100,295,39.2,13.6,1,0,daging,processed
+"Ayam goreng
+pasundan, dada",100,246,37.9,9,0.7,0,daging,processed
+"Ayam goreng
+pasundan, paha",100,245,33.1,11.4,0.3,0,daging,processed
+"Ayam goreng pioneer,
+dada",100,295,37.4,14.7,0.6,0,daging,processed
+"Ayam goreng
+sukabumi, dada",100,244,36.7,9.2,1,0,daging,processed
+"Ayam goreng
+sukabumi, paha",100,283,35.7,14.3,0.5,0,daging,processed
+"Ayam taliwang,
+masakan",100,264,18.2,20.1,2.7,,daging,processed
+"Babi hutan masak rica,
+masakan",100,491,24.6,16.3,0.2,,daging,processed
+Beef burger,100,258,10.6,9.5,32.5,0.4,daging,processed
+"Beef teriyaki, masakan",100,151,8.6,3.1,22.3,0.3,daging,processed
+"Beef yakiniku,
+masakan",100,132,9.8,1.1,20.7,0.3,daging,processed
+Brongkos,100,141,15.3,3.3,12.6,1,daging,processed
+"Bulgogi, masakan",100,72,11.4,4.9,1.4,1.7,daging,processed
+"Chicken teriyaki,
+masakan",100,168,13,9.6,7.5,0.8,daging,processed
+"Chikiniku, masakan",100,143,9.8,1.4,22.8,0.4,daging,processed
+"Coto mangkasara,
+kuda, masakan",100,96,6.8,5.9,3.8,,daging,processed
+"Coto mangkasara,
+sapi, masakan",100,84,6,6,1.4,,daging,processed
+"Djibokum, masakan",100,248,10,2.3,40.9,0.1,daging,processed
+"Empal (daging)
+Goreng, masakan",100,248,36.2,6.9,10.1,,daging,processed
+Gulai kambing,100,126,4.2,9.4,6.2,,daging,processed
+"Jangang bintatoeng,
+masakan",100,107,5.3,2.2,16.5,,daging,processed
+"Kalio ayam, masakan",100,203,16,13.5,4.4,,daging,processed
+"Kalio jeroan, masakan",100,163,16.5,9,4.1,,daging,processed
+"Kalio kikil (tunjang),
+masakan",100,122,13.8,5.7,3.9,,daging,processed
+"Kalio otak, masakan",100,157,8.1,8.8,11.4,,daging,processed
+"Lawar babi, masakan",100,174,17,10,3,0,daging,processed
+"Lawar penyu, masakan",100,141,23,1.5,7.6,0,daging,processed
+"Lawara jangang,
+masakan",100,159,5,10.9,10.1,,daging,processed
+"Naan maran sapi,
+masakan",100,478,38.3,33.9,5.1,,daging,processed
+"Nasu likku, masakan",100,196,14.5,8.3,15.9,,daging,processed
+"Oramu ninahu ndawa
+olaho, masakan",100,117,13.7,5,4.3,,daging,processed
+"Paniki masak santan,
+masakan",100,460,28.5,35.2,7.2,,daging,processed
+"Pelolah manuk,
+masakan",100,219,19.7,13.6,4.4,,daging,processed
+"Rawon, masakan",100,60,5.4,2.5,4,,daging,processed
+"Rendang sapi,
+masakan",100,193,22.6,7.9,7.8,0,daging,processed
+"RW, anjing, masakan",100,198,24.6,10.7,0.9,,daging,processed
+"Sate, penyu, masakan",100,179,22.5,3.5,13.3,0,daging,processed
+"Sate pusut, masakan",100,274,12.9,18.6,13.6,,daging,processed
+"Penyu, serapah,
+masakan",100,174,13.1,12.2,2.2,0,daging,processed
+"Sie reuboh, masakan",100,474,11.2,42.5,11.7,,daging,processed
+"Sop buntut, masakan",100,71,7.5,3.6,2.2,,daging,processed
+"Sop daging sapi,
+masakan",100,49,5.8,0.5,5.3,,daging,processed
+"Sop kaki sapi,
+masakan",100,68,9,1.9,3.7,,daging,processed
+"Sop kambing,
+masakan",100,34,5.5,0.8,1.1,,daging,processed
+"Sop konro, masakan",100,71,7.4,2.6,4.5,,daging,processed
+"Sop saudara, masakan",100,89,7.2,5,3.9,,daging,processed
+"Soto bandung,
+masakan",100,42,3.9,1.7,2.8,0.4,daging,processed
+"Soto banjar, masakan",100,110,2.9,9.5,3.2,,daging,processed
+"Soto betawi, masakan",100,135,2.5,8.8,11.5,0.5,daging,processed
+"Soto jeroan, masakan",100,92,11.8,4.3,1.4,,daging,processed
+"Soto kudus, masakan",100,38,2.6,2.3,1.8,0.2,daging,processed
+"Soto madura,
+masakan",100,60,3.5,4.5,1.3,0,daging,processed
+"Soto padang, masakan",100,127,5.9,6.6,11,0.7,daging,processed
+"Soto pekalongan,
+masakan",100,94,3,6.8,5.1,0.3,daging,processed
+"Soto pemalang,
+masakan",100,75,3.6,5.2,3.5,0,daging,processed
+"Soto sukaraja,
+masakan",100,80,3.2,3.5,9,0.3,daging,processed
+"Soto sulung, masakan",100,86,2.3,8.5,0,0,daging,processed
+"Sukiyaki, masakan",100,75,5.6,0.4,12.2,0.2,daging,processed
+"Tedong pallu basa,
+masakan",100,83,10.4,3.4,2.8,,daging,processed
+"Tikus rica, masakan",100,257,18.8,18.5,3.8,,daging,processed
+"Tinoransa, masakan",100,516,17.7,49.5,0,,daging,processed
+"Belut, segar",100,70,14.6,0.8,1,0,ikan,raw
+"Belut,laut, segar",100,93,12.8,1.5,6.1,0,ikan,raw
+"Cumi-cumi, segar",100,75,16.1,0.7,0.1,0,ikan,raw
+"Ikan bader, segar",100,193,19,13,0,0,ikan,raw
+"Ikan balong, segar",100,107,16.5,3.9,1.5,0,ikan,raw
+"Ikan bambangan,
+segar",100,112,20,1.3,3.7,0,ikan,raw
+"Ikan bandeng, segar",100,123,20,4.8,0,0,ikan,raw
+"Ikan banjar, segar",100,111,19.4,0.9,4.8,0,ikan,raw
+"Ikan baronang, segar",100,78,14.5,0.6,3.7,0,ikan,raw
+"Ikan batung, segar",100,115,14.5,4.6,4.2,0,ikan,raw
+"Ikan baung, segar",100,123,15.1,5.5,3.3,0,ikan,raw
+"Ikan bawal, segar",100,91,19,1.7,0,0,ikan,raw
+"Ikan Belida, segar",100,80,14.7,1.4,2.2,0,ikan,raw
+"Ikan beunteur, segar",100,109,17,4,0,0,ikan,raw
+"Ikan biawan, segar",100,90,14.9,2.5,2.1,0,ikan,raw
+"Ikan bili, segar",100,88,14.2,0.7,6.2,0,ikan,raw
+"Ikan bubara, segar",100,100,14.7,2.4,4.9,,ikan,raw
+"Ikan bulan-bulan,
+segar",100,134,25.5,1.3,5,,ikan,raw
+"Ikan cakalang, segar",100,107,19.6,0.7,5.5,0,ikan,raw
+"Ikan cakalang, hati,
+segar",100,120,11.3,3.9,10,,ikan,raw
+"Ikan cakalang,
+jantung, segar",100,116,11.2,1.2,10.2,,ikan,raw
+"Ikan cakalang, perut,
+segar",100,86,10.2,1.1,8.7,,ikan,raw
+"Ikan daun, segar",100,101,11.5,4.1,4.6,0,ikan,raw
+"Ikan ekor kuning,
+segar",100,108,22.3,1.2,2.1,0,ikan,raw
+"Ikan gabus, segar",100,80,16.2,0.5,2.6,0,ikan,raw
+"Ikan heu, segar",100,81,10,1.6,6.6,,ikan,raw
+"Ikan hitam, segar",100,101,10.3,3.7,6.7,0,ikan,raw
+"Ikan hiu, segar",100,57,10.7,0.3,2.2,0,ikan,raw
+"Ikan kacangan, segar",100,77,15.6,0.9,1.6,0,ikan,raw
+"Ikan kakap, segar",100,92,20,0.7,0,0,ikan,raw
+"Ikan kakatua, segar",100,82,11.4,1.2,6.4,,ikan,raw
+"Ikan kalaban, segar",100,77,16.4,0.7,1.3,0,ikan,raw
+"Ikan kamera (kakap
+merah), segar",100,86,19.7,0.8,0,0,ikan,raw
+"Ikan kapar, segar",100,132,17,6.7,0.8,0,ikan,raw
+"Ikan kawalinya, segar",100,110,12.6,4.2,5.4,,ikan,raw
+"Ikan keru-keru, segar",100,93,16.5,2.1,0.8,0,ikan,raw
+"Ikan kima, segar",100,70,10.8,0.7,5.2,,ikan,raw
+"Ikan lais, segar",100,161,11.9,11.5,2.4,0,ikan,raw
+"Ikan layang, segar",100,109,22,1.7,0,0,ikan,raw
+"Ikan layur, segar",100,82,18,1,0.4,0,ikan,raw
+"Ikan lehoma, segar",100,90,20.4,0.9,0,,ikan,raw
+"Ikan lemuru, segar",100,112,20,3,0,0,ikan,raw
+"Ikan lidah, segar",100,104,15.6,3.2,2,0,ikan,raw
+"Ikan malalugis, segar",100,99,20.6,1.4,0.9,,ikan,raw
+"Ikan mamar merah,
+segar",100,115,15.3,4,4.4,0,ikan,raw
+"Ikan mas, segar",100,86,16,2,0,0,ikan,raw
+"Ikan mayong, segar",100,97,17.9,2,0.4,0,ikan,raw
+"Ikan mujahir, segar",100,89,18.7,1,0,0,ikan,raw
+"Ikan nasu metti, segar",100,154,16.8,5,10.5,,ikan,raw
+"Ikan oci, kembung,
+segar",100,125,21.3,3.4,2.2,,ikan,raw
+"Ikan paling, segar",100,303,14,27,0,0,ikan,raw
+"Ikan papuyu/ betok,
+segar",100,120,14.3,4.9,4.6,0,ikan,raw
+"Ikan patin, segar",100,132,17,6.6,1.1,0,ikan,raw
+"Ikan pomo, segar",100,147,22.5,5.2,2.6,,ikan,raw
+"Ikan puntin, segar",100,76,14.4,1.1,2.2,,ikan,raw
+"Ikan saluang, segar",100,113,13.9,4.9,3.4,0,ikan,raw
+"Ikan sarden, segar",100,109,19.9,1.8,3.4,0,ikan,raw
+"Ikan selar, segar",100,100,18.8,2.2,0,0,ikan,raw
+"Ikan sepat, segar",100,84,15.2,0.6,4.7,0,ikan,raw
+"Ikan sidat, segar",100,81,11.4,1.9,3.8,0,ikan,raw
+"Ikan sunu, segar",100,111,13.3,3.4,6.7,,ikan,raw
+"Ikan tahuman, segar",100,88,15.9,0.9,4.1,0,ikan,raw
+"Ikan tarmon, segar",100,96,19.5,1.1,2,0,ikan,raw
+"Ikan telan, segar",100,95,15.8,0.7,6.5,0,ikan,raw
+"Ikan tembang, segar",100,204,16,15,0,0,ikan,raw
+"Ikan tempahas, segar",100,101,15.1,4.1,1,0,ikan,raw
+"Ikan terbang, segar",100,98,19.6,1.7,1,0,ikan,raw
+"Ikan teri, segar",100,74,10.3,1.4,4.1,0,ikan,raw
+"Ikan titang, segar",100,82,17.4,0.4,2.3,0,ikan,raw
+"Ikan tongkol, segar",100,100,13.7,1.5,8,0,ikan,raw
+"Ikan turi, segar",100,96,19.2,2,0.2,,ikan,raw
+"Keong, segar",100,64,12,1,2,0,ikan,raw
+"Kepiting, segar",100,151,13.8,3.8,14.1,0,ikan,raw
+"Kerang, segar",100,101,14.4,2.6,3.9,0,ikan,raw
+"Kodok, segar",100,73,16.4,0.3,0,0,ikan,raw
+"Kura-kura, segar",100,83,19.1,0.2,0,0,ikan,raw
+"Kuro, segar",100,87,16,2.2,1,0,ikan,raw
+"Lokan, segar",100,217,11,1.7,5.1,,ikan,raw
+"Rajungan, segar",100,76,12.1,2,2.4,0,ikan,raw
+"Rebon, udang kecil,
+segar",100,81,16.2,1.2,0.7,0,ikan,raw
+Rusip,100,110,11.5,2,11.7,0,ikan,raw
+"Udang galah, segar",100,81,16.5,0.3,3,0,ikan,raw
+"Udang, besar, segar",100,56,11.4,0.6,1.2,0,ikan,raw
+"Udang, segar",100,91,21,0.2,0.1,0,ikan,raw
+"Bekicot, dendeng,
+mentah",100,441,48.7,20.3,15.8,0,ikan,processed
+"Belut, goreng",100,417,25.9,19.4,32,0,ikan,processed
+"Cumi-cumi, goreng",100,265,40.6,10.1,0,0,ikan,processed
+"Ikan asin, kering",100,193,42,1.5,0,0,ikan,processed
+"Ikan bandeng presto,
+masakan",100,296,17.1,20.3,11.3,0,ikan,processed
+Ikan baung bakar,100,144,17.8,5.8,5.2,,ikan,processed
+Ikan Belida bakar,100,128,18,3,7.2,0,ikan,processed
+"Ikan cakalang asap,
+mentah",100,204,34.2,5.6,1.9,,ikan,processed
+"Ikan cakalang asin,
+mentah",100,198,36.5,2.2,5.5,0,ikan,processed
+"Ikan calo/ peda,
+mentah",100,81,11.4,1.9,3.8,0,ikan,processed
+"Ikan Gabus asap,
+mentah",100,261,38.1,2.3,21.9,0,ikan,processed
+"Ikan Gabus, kering",100,268,58,4,0,0,ikan,processed
+"Ikan gete, goreng",100,267,23.1,19.4,0.2,,ikan,processed
+"Ikan hiu, kering",100,298,46.3,3.6,20.2,,ikan,processed
+"Ikan katombo, asin",100,162,31.7,2.8,0.3,0,ikan,processed
+"Ikan kayu, kering",100,302,70.7,1.9,0.4,0,ikan,processed
+Ikan Lais bakar,100,147,17.5,6.5,5.4,,ikan,processed
+"Ikan lomak asin,
+mentah",100,258,40.3,2.3,18.9,0,ikan,processed
+Ikan Mas pepes,100,209,15.2,11.3,11.8,0.5,ikan,processed
+Ikan mujahir goreng,100,416,46.9,23.9,0,0,ikan,processed
+Ikan Mujahir pepes,100,121,21.7,2.8,0.8,0,ikan,processed
+"Ikan mujahir,
+dendeng, mentah",100,582,68.3,15.2,37.2,0,ikan,processed
+"Ikan Papuyu, bakar",100,152,17.6,6.1,6.7,0,ikan,processed
+"Ikan Patin, bakar",100,144,17.5,6.3,4.3,,ikan,processed
+"Ikan peda banjar,
+mentah",100,156,28,4,2,0,ikan,processed
+"Ikan pepetek, mentah",100,176,32,4.4,2,0,ikan,processed
+"Ikan Pindang banjar,
+mentah",100,157,28,4.2,1.8,0,ikan,processed
+"Ikan Pindang benggol,
+mentah",100,170,31,4.2,0,0,ikan,processed
+"Ikan Pindang layang,
+mentah",100,153,30,2.8,0,0,ikan,processed
+"Ikan Pindang selar,
+mentah",100,142,27,3,0,0,ikan,processed
+"Ikan sale, mentah",100,534,40.2,39.3,4.9,2,ikan,processed
+"Ikan sale lais, mentah",100,415,61.3,17.6,2.9,0,ikan,processed
+"Ikan saluang, kering,
+mentah",100,284,34.1,9.9,14.6,0,ikan,processed
+"Ikan sanggang,
+masakan",100,240,21.7,7.7,20.7,,ikan,processed
+"Ikan selar kuning, cue,
+mentah",100,138,27,3.3,0,0,ikan,processed
+"Ikan selar, kering,
+mentah",100,194,38,3.5,0,0,ikan,processed
+"Ikan sepat, kering,
+mentah",100,289,38,14,0,0,ikan,processed
+"Ikan sunu, asin,
+mentah",100,199,34.1,3.8,7.1,,ikan,processed
+"Ikan, tepung, mentah",100,316,60.1,6.5,22.4,0,ikan,processed
+"Ikan Teri nasi, kering,
+mentah",100,144,32.5,0.6,0,0,ikan,processed
+"Ikan Teri, bubuk,
+mentah",100,277,60,2.3,1.8,0,ikan,processed
+"Ikan teri, kering,
+mentah",100,170,33.4,3,0,0,ikan,processed
+"Ikan Teri, kering,
+tawar, mentah",100,331,68.7,4.2,0,0,ikan,processed
+"Ikan Teri, tepung,
+mentah",100,347,48.8,6.4,19.6,0,ikan,processed
+"Kerang, asap, mentah",100,393,38.9,13.3,29.4,,ikan,processed
+"Kerang, dendeng,
+mentah",100,357,41.1,10,25.6,0,ikan,processed
+"Rebon, kering, mentah",100,299,59.4,3.6,3.2,0,ikan,processed
+"Rebung laut, mentah",100,320,7.2,4.2,63.3,,ikan,processed
+Sardines dalam kaleng,100,338,21.1,27,1,0,ikan,processed
+"Teripang, dendeng,
+mentah",100,462,39.1,32.4,3.5,0,ikan,processed
+"Udang kering, mentah",100,278,62.6,4.1,2.2,,ikan,processed
+"Udang papay, mentah",100,273,47.8,3.8,12.5,,ikan,processed
+"Telur ayam kampung,
+segar",100,174,10.8,14,1.2,0,telur,raw
+"Telur ayam ras, segar",100,154,12.4,10.8,0.7,0,telur,raw
+"Telur ayam ras, bagian
+kuning, segar",100,355,16.3,31.9,0.7,0,telur,raw
+"Telur aAyam ras,
+bagian putih, segar",100,50,10.8,0,0.8,0,telur,raw
+"Telur bebek alabio,
+segar",100,187,11.8,14.2,3,0,telur,raw
+"Telur bebek, bagian
+kuning, segar",100,386,17,35,0.8,0,telur,raw
+"Telur bebek, bagian
+putih, segar",100,54,11,0,0.8,0,telur,raw
+"Telur bebek tambak,
+segar",100,187,10.9,12.4,7.9,0,telur,raw
+"Telur burung maleo,
+segar",100,436,26.5,36.3,0.4,,telur,raw
+"Telur penyu, segar",100,136,8.6,10.1,2.7,0,telur,raw
+"Telur burung puyuh,
+segar",100,116,10.7,7,1.6,0,telur,raw
+"Telur ayam, dadar,
+masakan",100,251,16.3,19.4,1.4,0,telur,processed
+"Telur bebek, asin,
+mentah",100,179,13.6,13.3,4.4,0,telur,processed
+"Telur bebek, dadar,
+masakan",100,301,20,23.7,0,0,telur,processed
+"Ikan, telur, asin,
+mentah",100,358,20.7,26.4,9.4,0,telur,processed
+"Bayau mi balu,
+masakan",100,313,6,12.2,44.8,,telur,processed
+"Cucuru bayau,
+masakan",100,349,6.8,18.7,38.3,,telur,processed
+"Kalio telur, masakan",100,193,10.6,12.4,9.7,,telur,processed
+"Kepala susu - krim,
+segar",100,204,2.6,20,4,0,susu,raw
+Susu ibu - ASI,100,62,1.5,3.2,7,0,susu,raw
+"Susu kambing, segar",100,64,4.3,2.3,6.6,0,susu,raw
+"Susu kerbau, segar",100,160,6.3,12,7.1,,susu,raw
+"Susu kuda, segar",100,40,2,1.1,5.4,0,susu,raw
+"Susu sapi, segar",100,61,3.2,3.5,4.3,0,susu,raw
+Es krim,100,210,4,12.5,20.6,0,susu,processed
+Hangop,100,65,10,1,3.5,0,susu,processed
+Keju,100,326,22.8,20.3,13.1,0,susu,processed
+Kwark (Quark),100,242,19,17,3,0,susu,processed
+"Susu asam untuk bayi,
+bubuk",100,418,19,9,65.5,0,susu,processed
+Susu bubuk,100,513,24.6,30,36.2,0,susu,processed
+Susu kental manis,100,343,8.2,10,55,0,susu,processed
+Susu kental tak manis,100,138,7,7.9,9.9,,susu,processed
+"Susu skim, bubuk",100,359,35.6,1,52,0,susu,processed
+"Susu skim, segar",100,36,3.5,0.1,5.1,,susu,processed
+"Yoghurt, segar",100,52,3.3,2.5,4,0,susu,processed
+"Kelapa setengah tua,
+daging, segar",100,180,4,15,10,2.4,lemak minyak,raw
+"Kelapa tua, daging,
+segar",100,359,3.4,34.7,14,4.7,lemak minyak,raw
+Lemak babi (lard),100,902,0,100,0,0,lemak minyak,raw
+Lemak babi (bacon),100,626,9.1,65,1.1,0,lemak minyak,raw
+Lemak ikan,100,372,12,29.4,14.4,0,lemak minyak,raw
+"Lemak kerbau (lemak
+sapi)",100,818,1.5,90,0,0,lemak minyak,raw
+"Minyak hiu, hati",100,902,0,100,0,0,lemak minyak,raw
+Minyak ikan,100,902,0,100,0,0,lemak minyak,raw
+Minyak kacang tanah,100,902,0,100,0,0,lemak minyak,raw
+Minyak kedelai,100,883,0,99.9,0,0,lemak minyak,raw
+Minyak kelapa,100,870,1,98,0,0,lemak minyak,raw
+Minyak kelapa sawit,100,884,0,100,0,0,lemak minyak,raw
+Minyak wijen,100,881,0.2,99.7,0,0,lemak minyak,raw
+Minyak zaitun,100,884,0,100,0,0,lemak minyak,raw
+Margarin,100,720,0.6,81,0.4,0,lemak minyak,processed
+Mentega,100,742,0.5,81.6,1.4,0,lemak minyak,processed
+Santan (dengan air),100,122,2,10,7.6,1.4,lemak minyak,processed
+Santan murni,100,324,4.2,34.3,5.6,0,lemak minyak,processed
+"Coklat manis, batang",100,527,2,29.8,62.7,6.5,gula,processed
+"Coklat pahit,batang",100,615,5.5,42.6,29.2,10.8,gula,processed
+"Coklat susu, batang",100,565,9,35,53.6,3.4,gula,processed
+Coklat bubuk,100,311,8,4,48.9,32.6,gula,processed
+Gula aren,100,368,0,0,92,0,gula,processed
+Gula kelapa,100,386,3,10,76,0,gula,processed
+Gula putih,100,394,0,0,94,0,gula,processed
+"Jam, selai",100,239,0.5,0.6,64.5,1,gula,processed
+Kopi bubuk instant,100,129,12.3,0.5,35,0,gula,processed
+Madu,100,294,0.3,0,79.5,0.2,gula,processed
+Markisa squash,100,217,2.5,1,49.6,,gula,processed
+"Markisa squash, BD",100,104,1.2,0.5,23.7,,gula,processed
+Melase,100,276,,0.1,71,0,gula,processed
+Sirup,100,213,0,0,55,0,gula,processed
+Sirup pirous,100,228,0.2,0.4,55.9,0,gula,processed
+Teh hijau daun kering,100,300,28.3,4.8,53.6,9.6,gula,processed
+Teh hitam daun kering,100,293,24.5,2.8,58.8,8.7,gula,processed
+"Teh melati daun
+kering",100,299,24.1,3.5,59,9.7,gula,processed
+"Asam arang coklat,
+segar",100,130,0.5,1.1,30.9,1.5,bumbu,raw
+"Asam arang merah,
+segar",100,99,0.8,1.6,20.3,2.8,bumbu,raw
+"Asan kandis, kering",100,261,0.9,1.6,63.3,5,bumbu,raw
+"Asam kandis, segar",100,75,0.2,1.1,16.1,3.4,bumbu,raw
+"Asam masak pohon,
+segar",100,267,2.8,0.6,62.5,1.2,bumbu,raw
+"Asam payak, segar",100,135,0.8,0.4,32.1,10,bumbu,raw
+"Bawang merah, segar",100,46,1.5,0.3,9.2,1.7,bumbu,raw
+"Bawang putih, segar",100,112,4.5,0.2,23.1,0.6,bumbu,raw
+"Boros kunci, segar",100,40,1,0.8,7.2,1,bumbu,raw
+"Boros laja (lengkuas),
+segar",100,26,1,0.3,4.7,1.1,bumbu,raw
+"Cabai gembor merah,
+segar",100,38,1.6,0.8,6.3,1.6,bumbu,raw
+"Cabai hijau, segar",100,26,0.7,0.3,5.2,2.6,bumbu,raw
+"Cabai merah, kering",100,367,15.9,6.2,61.8,26.9,bumbu,raw
+"Cabai merah, segar",100,36,1,0.3,7.3,1.4,bumbu,raw
+"Cabai rawit, segar",100,120,4.7,2.4,19.9,15.2,bumbu,raw
+"Cengkeh, kering",100,330,5.2,8.9,57.4,10,bumbu,raw
+"Daun salam,  bubuk",100,301,14.2,10.9,49,9.4,bumbu,raw
+"Jahe, segar",100,51,1.5,1,10.1,12,bumbu,raw
+Kemiri,100,675,19,63,8,3,bumbu,raw
+"Ketumbar, kering",100,418,14.1,16.1,54.2,12.3,bumbu,raw
+Kluwek,100,310,10,24,13.5,,bumbu,raw
+"Kunyit, segar",100,69,2,2.7,9.1,0.6,bumbu,raw
+"Merica, kering",100,365,11.5,6.8,64.4,1,bumbu,raw
+"Pala, biji, kering",100,518,7.5,36.4,40.1,3.5,bumbu,raw
+Balichong,100,152,13.2,0.8,22.9,1.5,bumbu,processed
+Bekasam,100,116,11.9,4.9,6.1,3.5,bumbu,processed
+Bekasang,100,78,11.4,2,3.6,0.4,bumbu,processed
+Cuka,100,21,0.1,0.1,5,0,bumbu,processed
+Kecap,100,71,5.7,1.3,9,0,bumbu,processed
+Petis ikan,100,165,20,0.2,20.8,,bumbu,processed
+Petis udang kering,100,345,23.8,1.4,59.3,0,bumbu,processed
+Petis udang pasta,100,220,15,0.9,38,2.3,bumbu,processed
+Saos tomat,100,110,2,0.4,24.5,0.9,bumbu,processed
+Tempoya,100,110,1.7,1.3,21.9,2.6,bumbu,processed
+Terasi,100,155,22.3,2.9,9.9,2.7,bumbu,processed
+Terasi dobo,100,191,33.1,3.6,6.6,1.6,bumbu,processed
+Terasi merah,100,174,30,3.5,5.6,2.2,bumbu,processed
+"Kelapa muda, air,
+segar",100,17,0.2,0.1,3.8,0,minuman,raw
