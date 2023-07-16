@@ -31,7 +31,9 @@ def get_food_info(food, indexes,indexOfChromosome, target_calories,food_data,amo
     indexes=indexes[:-1]
     # print(indexes)
     info = [nama_bahan] + [round(berat_bahan,1)] + [(float(food_data.loc[food, i]) * amount * amount_ratio) for i in  indexes] + [food_group] 
+    print(info)
     return info
+
 
 # Fungsi untuk menghasilkan rencana makan berdasarkan target
 def generate_meal_plan(food_data, target_calories, target_carbs, target_fat, target_protein, target_fiber):

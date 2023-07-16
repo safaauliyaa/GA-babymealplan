@@ -12,7 +12,7 @@ def index():
 @app.route("/mealplan",methods =["GET", "POST"])
 def meal_plan():
     if (request.method == "POST"):
-        mealplans,listNutritionTarget=final(int(request.form['usia']),float(request.form['berat_badan']),float(request.form['tinggi_badan']), request.form['gender'])
+        mealplans,listNutritionTarget=final(int(request.form['usia']),float(request.form['berat_badan']))
         labelMenu=["Pagi", "Siang", "Malam"]
         labelNutrisi=["karbohidrat","lemak","protein","fiber"]
         imageNutrisi=["karbo.jpg","fat.jpg","prot.jpg","fiber.jpg"]
